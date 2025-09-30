@@ -10,8 +10,6 @@ Automatically generates React websites from a CSV file using a Node.js script.
 - [Tech Hub BD](https://techhubbd-9ie57myrw-samiul821s-projects.vercel.app)
 - [Book Bazaar](https://bookbazaar-ezisczetw-samiul821s-projects.vercel.app)
 
-> Replace with your own hosted links if needed.
-
 ---
 
 ## 🛠 Tech Stack
