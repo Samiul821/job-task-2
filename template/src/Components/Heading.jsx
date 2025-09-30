@@ -1,9 +1,5 @@
-import React from 'react'
+import React from "react";
 
 export default function Heading() {
-  return (
-    <div>
-        <h1>Quick Delivery</h1>
-    </div>
-  )
+  return <h1>[[ Quick | Fast | Speedy ]] delivery service in Dhaka.</h1>;
 }
